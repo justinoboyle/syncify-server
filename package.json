@@ -1,0 +1,17 @@
+{
+  "name": "syncify-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ws": "^3.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
